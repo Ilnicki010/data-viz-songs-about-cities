@@ -7,7 +7,7 @@ import os
 st.set_page_config(layout="wide")
 
 cwd = os.getcwd()
-data_input = pd.read_csv(cwd + '/../creating_dataset/Data_merged.csv',index_col=[0]);
+data_input = pd.read_csv(cwd + '/Data_merged.csv',index_col=[0]);
 data = data_input.copy()
 data.dropna(inplace=True)
 
