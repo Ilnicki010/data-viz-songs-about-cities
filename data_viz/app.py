@@ -53,4 +53,4 @@ st.pydeck_chart(pdk.Deck(
      ],
  ))
 
-st.write('*Created by Dominik Ilnicki, read more about this project [here]('https://medium.com/@dominikilnicki/data-viz-songs-about-cities-in-the-u-s-69043faa1a7b').*')
+st.write('*Created by Dominik Ilnicki, read more about this project [here](https://medium.com/@dominikilnicki/data-viz-songs-about-cities-in-the-u-s-69043faa1a7b).*')
