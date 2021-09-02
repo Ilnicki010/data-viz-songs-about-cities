@@ -2,4 +2,3 @@ streamlit
 pydeck
 pandas
 numpy
-os
