@@ -2,5 +2,7 @@
 .vscode
 .virtual_documents
 /creating_dataset/.ipynb_checkpoints
+/creating_dataset/.DS_Store
+/data_viz/.DS_Store
 /creating_dataset/__pycache__
 .DS_Store
